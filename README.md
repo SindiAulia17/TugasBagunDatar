@@ -1,2 +1,2 @@
 # TugasBangunDatar
-https://sindiaulia17.github.io/TugasBangunDatar/image/BangunDatar.html
+https://sindiaulia17.github.io/TugasBagunDatar/BangunDatar.html
